@@ -26,6 +26,7 @@ Flask==3.0.3
 flask-ngrok==0.0.25
 fonttools==4.53.0
 fqdn==1.5.1
+gunicorn==20.1.0
 h11==0.14.0
 httpcore==1.0.2
 httpx==0.26.0
